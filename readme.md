@@ -2,9 +2,9 @@
 
 ### Technologies
 
-Python 3.8.10
-HTML5
-CSS
+Python 3.8.10, 
+HTML5, 
+CSS, 
 Flask
 
 ### Credits
